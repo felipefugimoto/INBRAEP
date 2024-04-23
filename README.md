@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INBRAEP
 Descrição:
 Combine todos seus conhecimentos e realize a atividade utilizando o Vue.js 
@@ -12,3 +13,6 @@ A aplicação deve conter:
 - Exclusão da tarefa;
 - Migrations
 - Seed (se quiser incluir alguns dados já iniciados)
+=======
+# INBRAEP
+>>>>>>> origin/main
